@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+license = {text = "Apache-2.0"}
+name = "agent-document-consistency"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+agent-document-consistency = "document_consistency:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
