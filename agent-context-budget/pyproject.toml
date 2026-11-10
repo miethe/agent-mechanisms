@@ -7,7 +7,7 @@ name = "agent-context-budget"
 version = "0.1.0"
 description = "Measure instruction chains against a byte budget"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {text = "Apache-2.0"}
 
 [project.scripts]
 agent-context-budget = "agent_context_budget:main"

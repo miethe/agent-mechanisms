@@ -27,3 +27,5 @@ Uninstall with `python -m pip uninstall agent-context-budget`. Maintainer and se
 ## Authors
 
 Nick Miethe. Developed with Metis, Nick's AI collaborator.
+
+Versions published before 2026-11-10 were released under the MIT License.
