@@ -11,6 +11,7 @@ Focused tools and blueprints for agent workflows.
 - [absence-and-recurrence](absence-and-recurrence/) — Blueprint: monitors absence and recurring hazards; probes need a reader, positive controls and unknown states.
 - [session-continuity](session-continuity/) — Blueprint: pointer handoffs across compaction; receipts do not prove rehydration.
 - [execution-boundaries](execution-boundaries/) — Blueprint: scoped execution and result checks; enforcement requires local policy and usability review.
+- [session-watcher-design](session-watcher-design/) — Blueprint: read-only watcher with fired, quiet and unmeasured states; does not show a watcher is operating.
 
 ## License
 
